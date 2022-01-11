@@ -6,7 +6,7 @@ namespace ConsoleApp
     class Program
     {
         static void Main(string[] args)
-{
+        {
             CoffeeMachine coffee_machine = new();
             while (true)
             {
