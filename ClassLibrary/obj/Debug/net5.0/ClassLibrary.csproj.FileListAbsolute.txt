@@ -1,0 +1,12 @@
+E:\XAI EXERCISE\Coffe_Machine\ClassLibrary\bin\Debug\net5.0\ClassLibrary.deps.json
+E:\XAI EXERCISE\Coffe_Machine\ClassLibrary\bin\Debug\net5.0\ClassLibrary.dll
+E:\XAI EXERCISE\Coffe_Machine\ClassLibrary\bin\Debug\net5.0\ref\ClassLibrary.dll
+E:\XAI EXERCISE\Coffe_Machine\ClassLibrary\bin\Debug\net5.0\ClassLibrary.pdb
+E:\XAI EXERCISE\Coffe_Machine\ClassLibrary\obj\Debug\net5.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\XAI EXERCISE\Coffe_Machine\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfoInputs.cache
+E:\XAI EXERCISE\Coffe_Machine\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfo.cs
+E:\XAI EXERCISE\Coffe_Machine\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.CoreCompileInputs.cache
+E:\XAI EXERCISE\Coffe_Machine\ClassLibrary\obj\Debug\net5.0\ClassLibrary.dll
+E:\XAI EXERCISE\Coffe_Machine\ClassLibrary\obj\Debug\net5.0\ref\ClassLibrary.dll
+E:\XAI EXERCISE\Coffe_Machine\ClassLibrary\obj\Debug\net5.0\ClassLibrary.pdb
+E:\XAI EXERCISE\Coffe_Machine\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.AssemblyReference.cache
